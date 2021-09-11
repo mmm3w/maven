@@ -32,7 +32,7 @@ implementation 'com.mitsuki.armory:adapter:x.x.x'
 
 ### [SystemOverlay]()
 ```
-implementation 'com.mitsuki.armory:systemoverlay:x.x.x'
+implementation 'com.mitsuki.armory:systemoverlay:1.0.0'
 ```
 
 ### [InputMeasure]()
