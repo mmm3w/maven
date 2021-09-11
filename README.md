@@ -7,4 +7,4 @@ repositories {
 
 ### HttpRookie
 ```
-implementation 'com.mitsuki.armory:httprookie:1.0.0'```
+implementation 'com.mitsuki.armory:httprookie:1.0.1'
