@@ -12,5 +12,5 @@ implementation 'com.mitsuki.armory:httprookie:1.0.0'
 
 ### LoadProgress
 ```
-implementation 'com.mitsuki.armory:loadprogress:'
+implementation 'com.mitsuki.armory:loadprogress:1.0.0'
 ```
