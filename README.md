@@ -8,3 +8,9 @@ repositories {
 ### HttpRookie
 ```
 implementation 'com.mitsuki.armory:httprookie:1.0.0'
+```
+
+### LoadProgress
+```
+implementation 'com.mitsuki.armory:loadprogress:x.x.x'
+```
