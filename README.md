@@ -5,7 +5,7 @@ repositories {
 }
 ```
 
-### [Base]()
+### [Base](https://github.com/mmm3w/base)
 ```
 implementation 'com.mitsuki.armory:base:1.0.0'
 ```
@@ -25,17 +25,17 @@ implementation 'com.mitsuki.armory:loadprogress:1.0.0'
 implementation 'com.mitsuki.armory:imagegesture:1.0.0'
 ```
 
-### [Adapter]()
+### [Adapter](https://github.com/mmm3w/adapter)
 ```
 implementation 'com.mitsuki.armory:adapter:1.0.0'
 ```
 
-### [SystemOverlay]()
+### [SystemOverlay](https://github.com/mmm3w/systemoverlay)
 ```
 implementation 'com.mitsuki.armory:systemoverlay:1.0.0'
 ```
 
-### [InputMeasure]()
+### [InputMeasure](https://github.com/mmm3w/inputmeasure)
 ```
 implementation 'com.mitsuki.armory:inputmeasure:x.x.x'
 ```
