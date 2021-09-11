@@ -5,17 +5,17 @@ repositories {
 }
 ```
 
-### HttpRookie
+### [HttpRookie](https://github.com/mmm3w/httprookie)
 ```
 implementation 'com.mitsuki.armory:httprookie:1.0.0'
 ```
 
-### LoadProgress
+### [LoadProgress](https://github.com/mmm3w/loadprogress)
 ```
 implementation 'com.mitsuki.armory:loadprogress:1.0.0'
 ```
 
-### ImageGesture
+### [ImageGesture](https://github.com/mmm3w/imagegesture)
 ```
 implementation 'com.mitsuki.armory:imagegesture:1.0.0'
 ```
