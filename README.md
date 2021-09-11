@@ -37,5 +37,5 @@ implementation 'com.mitsuki.armory:systemoverlay:1.0.0'
 
 ### [InputMeasure](https://github.com/mmm3w/inputmeasure)
 ```
-implementation 'com.mitsuki.armory:inputmeasure:x.x.x'
+implementation 'com.mitsuki.armory:inputmeasure:1.0.0'
 ```
