@@ -32,7 +32,7 @@ implementation 'com.mitsuki.armory:adapter:1.0.0'
 
 ### [SystemOverlay](https://github.com/mmm3w/systemoverlay)
 ```
-implementation 'com.mitsuki.armory:systemoverlay:1.0.0'
+implementation 'com.mitsuki.armory:systemoverlay:1.0.1'
 ```
 
 ### [InputMeasure](https://github.com/mmm3w/inputmeasure)
