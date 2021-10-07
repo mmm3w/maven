@@ -7,7 +7,7 @@ repositories {
 
 ### [Base](https://github.com/mmm3w/base)
 ```
-implementation 'com.mitsuki.armory:base:1.0.0'
+implementation 'com.mitsuki.armory:base:1.0.1'
 ```
 
 ### [HttpRookie](https://github.com/mmm3w/httprookie)
