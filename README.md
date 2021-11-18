@@ -37,7 +37,7 @@ implementation 'com.mitsuki.armory:systemoverlay:1.0.1'
 
 ### [InputMeasure](https://github.com/mmm3w/inputmeasure)
 ```
-implementation 'com.mitsuki.armory:inputmeasure:1.0.0'
+implementation 'com.mitsuki.armory:inputmeasure:1.0.1'
 ```
 
 ### [PileDriver](https://github.com/mmm3w/piledriver)
