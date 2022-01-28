@@ -12,7 +12,7 @@ implementation 'com.mitsuki.armory:base:1.0.2'
 
 ### [HttpRookie](https://github.com/mmm3w/httprookie)
 ```
-implementation 'com.mitsuki.armory:httprookie:1.0.0'
+implementation 'com.mitsuki.armory:httprookie:1.0.1'
 ```
 
 ### [LoadProgress](https://github.com/mmm3w/loadprogress)
