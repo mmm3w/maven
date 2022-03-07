@@ -27,7 +27,7 @@ implementation 'com.mitsuki.armory:imagegesture:1.0.0'
 
 ### [Adapter](https://github.com/mmm3w/adapter)
 ```
-implementation 'com.mitsuki.armory:adapter:1.0.3'
+implementation 'com.mitsuki.armory:adapter:1.0.4'
 ```
 
 ### [SystemOverlay](https://github.com/mmm3w/systemoverlay)
