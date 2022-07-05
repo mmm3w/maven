@@ -22,7 +22,7 @@ implementation 'com.mitsuki.armory:loadprogress:1.0.0'
 
 ### [ImageGesture](https://github.com/mmm3w/imagegesture)
 ```
-implementation 'com.mitsuki.armory:imagegesture:1.0.0'
+implementation 'com.mitsuki.armory:imagegesture:1.0.1'
 ```
 
 ### [Adapter](https://github.com/mmm3w/adapter)
